@@ -2,9 +2,10 @@
     "name": "arko/serializer-extensions",
     "description": "Some usefull extensions for the JMS Seralizer",
     "require": {
-        "jms/serializer": "0.17.*@dev"
+        "jms/serializer": "~0.16"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Artyom Kozhemyakin",
