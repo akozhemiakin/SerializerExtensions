@@ -1,9 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: lemark
- * Date: 02.04.15
- * Time: 16:33
+ * (c) Artyom Kozhemyakin <xenus.t@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace Arko\SerializerExtensions;
