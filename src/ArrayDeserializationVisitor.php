@@ -10,7 +10,7 @@ namespace Arko\SerializerExtensions;
 
 use JMS\Serializer\GenericDeserializationVisitor;
 
-class ArrayDeserealizationVisitor extends GenericDeserializationVisitor {
+class ArrayDeserializationVisitor extends GenericDeserializationVisitor {
     protected function decode($array)
     {
         return $array;
